@@ -13,11 +13,11 @@
 
 ## Previous Presentations
 ### Spring 2018
-#### [Efficient Video Object Segmentation via Network Modulation](https://arxiv.org/pdf/1802.01218.pdf)
+#### 4/11/18 [Efficient Video Object Segmentation via Network Modulation](https://arxiv.org/pdf/1802.01218.pdf)
 * Authors are *Linjie Yang*, *Yanran Wang*, *Xuehan Xiong*, *Jianchao Yang*, *Aggelos Katsaggelos*
 * Presented by Yanran Wang
 
-#### [Interpretable Decision Sets: A Joint Framework for Description and Prediction](https://dl.acm.org/citation.cfm?id=2939874)
+#### 4/4/18 [Interpretable Decision Sets: A Joint Framework for Description and Prediction](https://dl.acm.org/citation.cfm?id=2939874)
 * Authors are *Himabindu Lakkaraju*, *Stephen Bach*, *Jure Leskovec*
 * Presented by Scott Cambo
 
