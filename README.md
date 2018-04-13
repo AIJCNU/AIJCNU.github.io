@@ -1,6 +1,24 @@
 # AIJC @ NU
 ## The Graduate Student Led Journal Club for Artificial Intelligence Research at Northwestern University
 
+## A Casual Place To Present, Ponder, and Discuss AI at Northwestern
+Artificial Intelligence is historically and inherently an interdisciplinary 
+field of research. Many of the biggest advancements in the field 
+have come from incorporating insights from neuroscience, psychology, statistics,
+economics, human factors, linguistics, physics, topology, biology, and many other academic disciplines.
+As graduate students, it can sometimes be difficult to meet people who
+approach AI research from another research perspective. AI journal club
+is meant to be used as a place where we can casually present, critique,
+and discuss publications in AI among a variety of peers who can 
+help contextualize the contributions and perspective of the material
+in other disciplines. Presentations vary from being as casual as a light discussion
+around the ethical concerns of AI raised by legal scholars to interactive demonstrations
+of cutting edge neural network architectures. We welcome graduate students from
+any department to attend and participate in discussion and encourage
+regular attendees to present research heavily related to their own work,
+research that they would like to solicit help in understanding, and research
+that can foster important conversations regarding the future of AI.
+
 ## Spring 2018 Meetings
 * Time : Wednesdays at 11AM
 * Location : Frances Searle Building 2-378 (2nd floor)
