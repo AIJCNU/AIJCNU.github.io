@@ -33,6 +33,9 @@ that can foster important conversations regarding the future of AI.
 * Irina Rabkina
 * Prem Seetharaman
 
+## Previous Board Members
+* Joe Blass (Founder)
+
 ## Previous Presentations
 ### Spring 2018
 #### 4/11/18 [Efficient Video Object Segmentation via Network Modulation](https://arxiv.org/pdf/1802.01218.pdf)
