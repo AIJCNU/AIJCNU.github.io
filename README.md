@@ -26,3 +26,33 @@
 * Presented by Scott Cambo
 
 ### Winter 2018
+#### 3/15/18 [Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms](http://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?article=3351&context=bclr)
+* Authors are *Kate Crawford*, *Jason Schultz*
+* Presented by guest speaker, [Rebecca Wexler](https://law.yale.edu/rebecca-wexler)
+
+#### 3/8/18 [Recurrent Recommender Networks](http://alexbeutel.com/papers/rrn_wsdm2017.pdf)
+* Authors are *Chao-Yuan Wu*, *Amr Ahmed*, *Alex Beutel*, *Alexander J. Smola*, and *How Jing*
+* Presented by Nicholas Vincent
+
+#### 3/1/18 [Poincaré Embeddings for Learning Hierarchical Representations](https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations)
+* Authors are *Maximillian Nickel*, *Douwe Kiela*
+* Presented by Prem Seetharaman*
+
+#### 2/8/18 [Computer Assisted Authoring for Natural Language Story Scripts](https://www.disneyresearch.com/publication/computer-assisted-authoring-natural-language-story-scripts/)
+* Authors are *Rushit Sanghrajka*, *Markus Gross*
+* Presented by Irina Rabkina
+
+#### 2/1/18 [VizWiz: Nearly real-time answers to visual questions](https://dl.acm.org/citation.cfm?id=1806020)
+* Authored by *Jeffrey Bigham et al.*
+* Presented by Emily Wang
+
+#### 1/18/18 [Game Design for Classical AI](https://www.scholars.northwestern.edu/en/publications/game-design-for-classical-ai)
+* Authored by *Ian Horswill*
+* Presented by Ethan Robison
+
+#### 1/11/18 [A Few Useful Things To Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+* Authored by *Pedro Domingos*
+* Presented by Scott Cambo
+
+### List of Past Presentations
+***Coming soon***
