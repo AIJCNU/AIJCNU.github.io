@@ -57,7 +57,7 @@ that can foster important conversations regarding the future of AI.
 
 #### 3/1/18 [Poincaré Embeddings for Learning Hierarchical Representations](https://papers.nips.cc/paper/7213-poincare-embeddings-for-learning-hierarchical-representations)
 * Authors are *Maximillian Nickel*, *Douwe Kiela*
-* Presented by *Prem Seetharaman*
+* Presented by Prem Seetharaman
 
 #### 2/8/18 [Computer Assisted Authoring for Natural Language Story Scripts](https://www.disneyresearch.com/publication/computer-assisted-authoring-natural-language-story-scripts/)
 * Authors are *Rushit Sanghrajka*, *Markus Gross*
