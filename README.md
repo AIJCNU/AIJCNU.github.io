@@ -14,7 +14,7 @@ implications of AI. We welcome graduate students from any department to attend a
 in discussion and encourage regular attendees to present research related to their own work, 
 research that they would like to solicit help in understanding, research that can foster 
 conversations about the future of our field, or just research that is interesting and sparks 
-novel and exiting ideas. 
+novel and exciting ideas. 
 
 ## Spring 2018 Meetings
 * Time : Wednesdays at 11AM
