@@ -5,19 +5,16 @@
 Artificial Intelligence is historically and inherently an interdisciplinary 
 field of research. Many of the biggest advancements in the field 
 have come from incorporating insights from neuroscience, psychology, statistics,
-economics, human factors, linguistics, physics, topology, biology, and many other academic disciplines.
-As graduate students, it can sometimes be difficult to meet people who
-approach AI research from another research perspective. AI journal club
-is meant to be used as a place where we can casually present, critique,
-and discuss publications in AI among a variety of peers who can 
-help contextualize the contributions and perspective of the material
-in other disciplines. Presentations vary from being as casual as a light discussion
-around the ethical concerns of AI raised by legal scholars to interactive demonstrations
-of cutting edge neural network architectures. We welcome graduate students from
-any department to attend and participate in discussion and encourage
-regular attendees to present research heavily related to their own work,
-research that they would like to solicit help in understanding, and research
-that can foster important conversations regarding the future of AI.
+economics, human factors, linguistics, physics, topology, biology, 
+and many other academic disciplines. AI Journal Club is meant to be a place where we can 
+present, critique, and discuss research (both seminal and also cutting-edge) in a welcoming
+environment with a diversity of viewpoints. Presentations range from casual paper discussions,
+to in-depth tutorials of cutting-edge techniques in AI to spirited debates over the ethical 
+implications of AI. We welcome graduate students from any department to attend and participate 
+in discussion and encourage regular attendees to present research related to their own work, 
+research that they would like to solicit help in understanding, research that can foster 
+conversations about the future of our field, or just research that is interesting and sparks 
+novel and exiting ideas. 
 
 ## Spring 2018 Meetings
 * Time : Wednesdays at 11AM
