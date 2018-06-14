@@ -35,6 +35,35 @@ novel and exciting ideas.
 
 ## Previous Presentations
 ### Spring 2018
+
+#### 6/6/18 [Deep Learning with Differential Privacy](https://arxiv.org/pdf/1607.00133.pdf)
+* Authors are *Martin Abadi*, *H. Brendan McMahan*, *Andy Chu*, *Ilya Mironov*, *Li Zhang*, *Ian Goodfellow*, *Kunal Talwar*
+* Presented by *Isaac Johnson*
+
+#### 5/30/18 [Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://eng.uber.com/deep-neuroevolution/)
+* Authors are *Felipe Petroski Such*, *Vashisht Madhavan*, *Edoardo Conti*, *Joel Lehman*, *Kenneth O. Stanley*, *Jeff Clune*
+* presented by *Bryan Head*
+
+#### 5/23/18 [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
+* Authors are *Chris Olah*, *Arvind Styanarayan*, *Ian Johnson*, *Shan Carter*, *Ludwig Schubert*, *Katherine Ye*, *Alexander Mordvintsev*
+* presented by *Ryan Louie*
+
+#### 5/16/18 [Accountability of AI Under the Law: The Role of Explanation](https://arxiv.org/pdf/1711.01134.pdf)
+* Authors are *Finale Doshi-Velez* and *Mason Kortz*
+* Presented by *Joe Blass*
+
+#### 5/8/18 [Crowdsourced Pairwise-Comparison For Source Separation Evaluation](https://static1.squarespace.com/static/552210bae4b0c19f89444531/t/5a9c346524a69491fed55f20/1520186470487/CartwrightPardoMysore_2018.pdf)
+* Authors are *Mark Cartwright*, *Bryan Pardo*, *Gautham J. Mysore*
+* presented by *Ethan Manilow*
+
+#### 4/25/18 ["Why Should I Trust You?" Explaining the Predictions of Any Classifier](http://arxiv.org/pdf/1602.04938v1.pdf)
+* Authors are *Marco Tulio Ribeiro*, *Sameer Singh*, *Carlos Guestrin*
+* Presented by *Scott Cambo*
+
+#### 4/18/18 [The Mathematics of Statistical Machine Translation: Parameter Estimation](https://dl.acm.org/citation.cfm?id=972474)
+* Authors are *Peter F. Brown*, *Vincent J. Della Pietra*, *Stephen A. Della Pietra*, *Robert L. Mercer*
+* Presented by *Constantine Nakos*
+
 #### 4/11/18 [Efficient Video Object Segmentation via Network Modulation](https://arxiv.org/pdf/1802.01218.pdf)
 * Authors are *Linjie Yang*, *Yanran Wang*, *Xuehan Xiong*, *Jianchao Yang*, *Aggelos Katsaggelos*
 * Presented by Yanran Wang
